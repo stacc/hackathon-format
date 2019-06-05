@@ -50,9 +50,9 @@ The `lab`'s goal is to provide a creative space where people can thrive and focu
 
 Each `lab` can appoint a jury which will score the entries and announce a winning team.
 
-#### Price
+#### Reward
 
-The price will vary from `lab` to `lab`, but I encourage the companies to pursue Proof of concept if that is within range i.e give the team some time to test their product.
+The reward will vary from `lab` to `lab`, but I encourage the companies to pursue Proof of concept if that is within range i.e give the team some time to test their product.
 
 ## Format
 
